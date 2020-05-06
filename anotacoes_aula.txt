@@ -1,0 +1,15 @@
+ ---- DEV VENTURE  ----
+
+ // *** 04/05/2020 *** \\
+
+- Android kernel architecture.
+- Activity.
+- Service.
+- Broadcast receiver.
+- Content provider.
+- Object intent.
+- Na config do avd verificar se tem como acelarar via hardware, é mais rapido.
+- Camada de layout no Android é feita com XML.
+
+// *** 05/05/2020 ***\\
+- https://drive.google.com/open?id=1L-9XiwgUV5ANwPdUZp6FyN8jnyVS_M7I
