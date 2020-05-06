@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304394cc-ad75-458a-80aa-cc2feca78379" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/POO/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anotacoes_aula.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bXMsKvIIUCVBAm5GJEukyyvIUN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304394cc-ad75-458a-80aa-cc2feca78379" name="Default Changelist" comment="" />
+      <created>1588774191493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588774191493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588774229859">
+      <screen x="0" y="23" width="1600" height="800" />
+    </state>
+    <state x="650" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1600.23.1600.877/0.23.1600.800@0.23.1600.800" timestamp="1588774229859" />
+    <state x="479" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1588774195200">
+      <screen x="0" y="23" width="1600" height="800" />
+    </state>
+    <state x="479" y="255" key="com.intellij.ide.util.TipDialog/1600.23.1600.877/0.23.1600.800@0.23.1600.800" timestamp="1588774195200" />
+  </component>
+</project>
