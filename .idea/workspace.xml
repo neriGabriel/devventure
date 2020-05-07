@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="304394cc-ad75-458a-80aa-cc2feca78379" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anotacoes_aula.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020-05-06.md" beforeDir="false" afterPath="$PROJECT_DIR$/2020-05-06.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +37,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="544" y="269" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588804206754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="269" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1588804206754" />
     <state x="650" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588774229859">
       <screen x="0" y="23" width="1600" height="800" />
     </state>
     <state x="650" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1600.23.1600.877/0.23.1600.800@0.23.1600.800" timestamp="1588774229859" />
+    <state x="1480" y="374" key="FileChooserDialogImpl" timestamp="1588804231977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1480" y="374" key="FileChooserDialogImpl/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1588804231977" />
     <state x="479" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1588774195200">
       <screen x="0" y="23" width="1600" height="800" />
     </state>
     <state x="479" y="255" key="com.intellij.ide.util.TipDialog/1600.23.1600.877/0.23.1600.800@0.23.1600.800" timestamp="1588774195200" />
+    <state x="472" y="234" key="new project wizard" timestamp="1588804283600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="234" key="new project wizard/-1360.0.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1588804283600" />
   </component>
 </project>
